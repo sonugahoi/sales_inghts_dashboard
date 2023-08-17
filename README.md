@@ -1,1 +1,3 @@
-# sales_inghts_dashboard
+# Sales Insights Dahboard | Self Project
+
+![] ()
