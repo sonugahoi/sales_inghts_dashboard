@@ -1,4 +1,7 @@
-# Sales Insights Dashboard | Self Project
+# Sales Insights Dashboard | Self Project   
+
+### NAME - SACHIN GUPTA
+
 Dashboard created with three Pages
 
 ## Page 1: Key Insights
